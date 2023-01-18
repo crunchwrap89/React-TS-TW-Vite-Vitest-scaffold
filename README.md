@@ -1,6 +1,10 @@
-# React, TS, TW, Vite Scaffold
+# React, TS, TW, Vite, Vitest Scaffold
 
-npx degit crunchwrap89/react-ts-vite-scaffold
+Scaffold / template for creating a new React, Typescript, Tailwind, Vite and Vitest app.
+
+## Init from scratch
+
+npx degit crunchwrap89/React-TS-TW-Vite-Vitest-scaffold
 
 ## Install
 
